@@ -43,9 +43,12 @@ build/spec_strategy.so
 
 Development machine:
 
-* ASUS Vivobook S14
-* Intel Core Ultra processor
-* Ubuntu Linux
+ASUS Vivobook S14
+intel Core Ultra processor
+Model name:13th Gen Intel(R) Core(TM) i7-13620H
+kernel: 7.0.0-22-generic
+RAM: 16GB
+OS: Ubuntu Linux
 
 ## Repository Contents
 
